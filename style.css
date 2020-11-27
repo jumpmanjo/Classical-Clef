@@ -1,0 +1,91 @@
+
+img.navbarlogo{
+    float:left;
+    width:144px;
+    height:26px;
+    border: none;
+    margin: 0px;
+    padding: 0px;
+    object-fit: cover;
+    display: block;
+
+}
+
+div.jumbotron{
+    background:url("https://harleybenton.com/app/uploads/2019/10/header_bodyshape_classical@2x.jpg") no-repeat;
+    background-size: cover;
+    color:white;
+}
+
+h1.h1{
+    margin: 20px;
+    font-weight: bold;
+}
+
+h2.h2{
+    margin: 20px;
+    font-weight: bold;
+}
+
+span.featured-composer{
+    font-size: large;
+    margin:auto;
+}
+
+ul.list-of-composers{
+    list-style-type: none;
+}
+
+img.img-rounded{
+    border: 5px solid black;
+    padding: 0 0 0 0;
+    margin: auto;
+    width: 400px;
+    height: 450px;
+    object-fit: cover;
+}
+
+img#gigue{
+    width: 900px; 
+    height: 1150px;
+}
+
+img#pavana{
+    width: 900px;
+    height: 1264px;
+}
+
+img#handel{
+    width: 900px;
+    height: 705px;
+}
+
+img#caprice24{
+    width: 900px;
+}
+
+img.piece{
+    width: 900px;
+    height: 602px;
+}
+
+iframe{
+    height: 508px;
+    width: 900px;
+}
+
+a:link {
+    text-decoration: none;
+}
+  
+a:visited {
+    text-decoration: none;
+}
+  
+a:hover {
+    text-decoration: none;
+}
+  
+a:active {
+    text-decoration: none;
+}
